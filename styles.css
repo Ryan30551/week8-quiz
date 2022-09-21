@@ -1,0 +1,26 @@
+body {
+    background-color: blue;
+}
+
+#Quiz {
+    color: white;
+}
+
+#text2 {
+    color: red;
+}
+
+.box {
+    padding: 1px;
+    border-radius: 25px;
+    border-style: solid;
+    border-color: black;
+    background-color: black;
+    margin: 25%;
+    color: white;
+}
+
+#fruit :hover {
+background-color: white;
+}
+
